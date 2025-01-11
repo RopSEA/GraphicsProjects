@@ -11,6 +11,7 @@ flash random colors in the corresponding window that was created
 This assignment was to use moderngl in python to create a triangle using vertcie positions
 and then thrwoing them into a vertex shader which would compute the positions then draw them on the screen
 creating a triangle after moving them through the fragment shader which will color the needed verticies in white
+
 ![screenshot](Assignment2/Assignment%202%20output%20Remi%20Roper.png)
 
 
@@ -21,6 +22,8 @@ vertex points for each point. Then it was to take those points and color them ma
 in the graphical loop of the program we were then to feed in a scale factor in order to make the plotted shape 
 to oscilate size from big to small.
 
+![screenshot](Assignment3/Assignment%203%20output%20Remi%20Roper.png)
+
 
 ## Assignment 4
 
@@ -29,11 +32,15 @@ onto the screen from a .obj file starting witht the first object the teapot. You
 select between keyboard 1-6 in order to see the given object rotate in 3D space. All of which would be colored by
 the fragment shader to be colored by the normals of the object.
 
+![screenshot](Assignment4/Screenshot%202024-09-15%20213450.png)
+
 
 ## Assignment 5
 
 Very Similar to the previous assignment, all that was changed here was the perspective of the camera which had changed 
 from a regular view to a birds eye view looking down on all of the objects.
+
+![screenshot](Assignment5/Screenshot%202024-09-23%20152453.png)
 
 
 ## Assignment 6
