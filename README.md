@@ -23,11 +23,17 @@ to oscilate size from big to small.
 
 ## Assignment 4
 
-This Assignment was to create a object loader that would compute the bounds and vertex data used to load the object
+This assignment was to create a object loader that would compute the bounds and vertex data used to load the object
 onto the screen from a .obj file starting witht the first object the teapot. You as the user would then be able to 
 select between keyboard 1-6 in order to see the given object rotate in 3D space. All of which would be colored by
 the fragment shader to be colored by the normals of the object.
 
 
 ## Assignment 5
+
+Very Similar to the previous assignment, all that was changed here was the perspective of the camera which had changed 
+from a regular view to a birds eye view looking down on all of the objects.
+
+
+## Assignment 6
 
