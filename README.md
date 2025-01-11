@@ -11,6 +11,7 @@ flash random colors in the corresponding window that was created
 This assignment was to use moderngl in python to create a triangle using vertcie positions
 and then thrwoing them into a vertex shader which would compute the positions then draw them on the screen
 creating a triangle after moving them through the fragment shader which will color the needed verticies in white
+![screenshot](Assignment2/Assignment%202%20output%20Remi%20Roper.png)
 
 
 ## Assignment 3
