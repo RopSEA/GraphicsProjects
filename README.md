@@ -51,3 +51,9 @@ in diffrent locations rotations and scales. After all this is done  the camera i
 
 ## Assignment 7
 
+In this one I had learned more about point and directional lighting and attempted to create a scene of a teapot and 
+the flooring with directional or point lighting depending on the users input of pressing l.
+
+
+## Assignment 8
+
