@@ -45,3 +45,9 @@ from a regular view to a birds eye view looking down on all of the objects.
 
 ## Assignment 6
 
+This assignment took a change in that instead of one object at a time there is a now a floor object and 100 teapots
+in diffrent locations rotations and scales. After all this is done  the camera is rotated around the scene.
+
+
+## Assignment 7
+
