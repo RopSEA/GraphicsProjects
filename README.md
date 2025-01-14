@@ -57,3 +57,10 @@ the flooring with directional or point lighting depending on the users input of 
 
 ## Assignment 8
 
+Assignment 8 started to make this a little more intresting by adding textures to the objects having the grass texture
+for the ground and a gold texture for the teapot. After implementing this we made sure the lighting calculation was kept
+so everything still looks correct with the given lighting.
+
+
+## Assignment 9
+
