@@ -64,3 +64,5 @@ so everything still looks correct with the given lighting.
 
 ## Assignment 9
 
+For this Assignment, We took what we had in assignment 8 and furthered it by adding  reflection of a skybox into the teapot
+as we also created a skybox for the assigment and giving the scene the correct lighting.
