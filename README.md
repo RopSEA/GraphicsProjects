@@ -81,3 +81,7 @@ in a 2 step rendering process. First being the first render without shadow then 
 the shadows onto the next and fianl render.
 
 ## Project 3
+
+For this final project it was set up to be like the first project but witht the addition of normal maps. This addition would 
+create some depth on the 3d objects being renderd when given the two normal maps so  that we are looking at something more 
+intresting.
