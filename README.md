@@ -1,5 +1,8 @@
 # GraphicsProjects
 
+These 12 sets of projects was a doccumentation on the learning of moderngl in python learning basic ideas in graphics programming
+like the use of shaders rendering objects to the screen and many other things that were learned.
+
 ## Assignment 1
 
 This assignment was to use python and moderngl to create a window that would 
