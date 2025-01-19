@@ -70,11 +70,14 @@ as we also created a skybox for the assigment and giving the scene the correct l
 
 ## Project 1
 
-For project one it was have basically the same render as assignment 8 but to then calculate the shadow by using a shadow map 
-in a 2 step rendering process. First being the first render without shadow then create a shadow map with this map we can map 
-the shadows onto the next and fianl render.
+For project one it was have basically the same render as assignment 8 but instead we are creating a shadow with the use of 
+of directional and point lighting. showing they have diffrent shadows depending on the lighting used.
 
 
 ## Project 2
+
+For project two it was have basically the same render as assignment 8 but to then calculate the shadow by using a shadow map 
+in a 2 step rendering process. First being the first render without shadow then create a shadow map with this map we can map 
+the shadows onto the next and fianl render.
 
 ## Project 3
